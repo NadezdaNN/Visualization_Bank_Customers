@@ -8,4 +8,4 @@
 Исследование данных об оттоке клиентов некоторого банка.
 
 ### Ссылка на датасет
-
+https://drive.google.com/file/d/1rrGT12ypL9e-JQXfUpVMh1KEQdqwTefi/view?usp=sharing
