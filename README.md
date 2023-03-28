@@ -12,3 +12,6 @@
 https://drive.google.com/file/d/1rrGT12ypL9e-JQXfUpVMh1KEQdqwTefi/view?usp=sharing
 
 ### Как установить проект
+Выполнить следующие команды в терминале VS Code
+1. git clone 
+2. pip install -r requirements.txt
