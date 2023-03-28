@@ -13,5 +13,5 @@ https://drive.google.com/file/d/1rrGT12ypL9e-JQXfUpVMh1KEQdqwTefi/view?usp=shari
 
 ### Как установить проект
 Выполнить следующие команды в терминале VS Code
-1. git clone 
+1. git clone https://github.com/NadezdaNN/HomeworkSF_Py13.git
 2. pip install -r requirements.txt
